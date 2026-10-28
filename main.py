@@ -15,7 +15,7 @@ print(subject)
 username = "Abdullah"
 Password = 1234
 
-if username =="Abdullah":
+if username =="Abdullah BIN SHAHID":
     if Password ==1234:
         print("login successful")
     else:
